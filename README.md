@@ -10,7 +10,7 @@ It is a Asipre Lravel code challange project.
 - Run __composer install__
 - Run __php artisan key:generate__
 - Run __php artisan migrate --seed__ (it has some seeded data for your testing)
-- Run __php php artisan passport:install__ (it has generate passport key)
+- Run __php artisan passport:install__ (it has generate passport key)
 - That's it: for admin login default credentials __admin@aspire.com__ - __password__
 
 ---
